@@ -7,30 +7,14 @@ assignees: ''
 ---
 
 ## User Story
-En tant que [ROLE], j'ai besoin de [FONCTION], pour que [AVANTAGE]
+En tant que [utilisateur de Weplanify], j'ai besoin de [me connecter de manière sécurisée avec email et mot de passe], pour que [ je puisse accéder à mes plannings personnels et protéger mes données]
 
 ## Critères d'acceptation
-**Étant donné** [CONTEXTE]
-**Quand** [ACTION]  
-**Alors** [RÉSULTAT]
+**Étant donné** [que je suis sur la page de connexionE]
+**Quand** [je saisis mon email valide et mon mot de passe correct]  
+**Alors** [je suis redirigé vers mon dashboard personneT]
 
 ## Notes
-- [ ] Tâche 1
-- [ ] Tâche 2
+- [ ] Tache 1
 
-
-En tant que chef de projet, j'ai besoin de créer un nouveau projet, pour que je puisse organiser le travail de mon équipe.
-
-Critères d'acceptation :
-Étant donné que je suis connecté comme chef de projet
-Quand je clique sur "Nouveau projet" et saisis nom/description
-Alors un projet est créé et visible dans mon dashboard
-
-
-
-En tant que designer, j'ai besoin de voir mes tâches assignées, pour que je puisse prioriser mon travail quotidien.
-
-Critères d'acceptation :
-Étant donné que j'ai des tâches assignées
-Quand j'accède à mon dashboard personnel
-Alors je vois la liste de mes tâches triées par priorité
+- [ ] Tache 2
