@@ -1,1 +1,0 @@
-# makeitperfect-project-management
